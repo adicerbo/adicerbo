@@ -3,9 +3,9 @@
 My name is Antonio DiCerbo. I'm a software developer who's recently graduated a software engineering bootcamp. I am passionate about what I'm doing and currently trying to absorb any and all knowledge I can in order to be as proficient as possible in this field. 
 
 About me:
-I have a passion for 90s Japanese and European cars
-I'm a washed college football player
-I love to tinker with anything mechanical as well as software!
+- I have a passion for 90s Japanese and European cars
+- I'm a washed college football player
+- I love to tinker with anything mechanical as well as software!
 
 <!--
 **adicerbo/adicerbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
