@@ -1,6 +1,6 @@
 ### Hey! 👋 
 
-My name is Antonio DiCerbo. I'm a software developer who's currently going through a software engineering bootcamp. I am passionate about what I'm doing and currently trying to absorb any and all knowledge I can in order to be as proficient as possible in this field. 
+My name is Antonio DiCerbo. I'm a software developer who's recently graduated a software engineering bootcamp. I am passionate about what I'm doing and currently trying to absorb any and all knowledge I can in order to be as proficient as possible in this field. 
 
 About me:
 I have a passion for 90s Japanese and European cars
