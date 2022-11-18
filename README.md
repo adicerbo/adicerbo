@@ -3,13 +3,12 @@
 My name is Antonio DiCerbo. I'm a software developer who's recently graduated a software engineering bootcamp. I am passionate about what I'm doing and currently trying to absorb any and all knowledge I can in order to be as proficient as possible in this field. 
 --
 About me:
-- I have a passion for 90s Japanese and European cars
-- I'm a washed up college football player
-- I love to tinker with anything mechanical as well as software!
---
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/antonio-dicerbo/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> or email me <a href="mailto:asdicerbo@gmail.com">asdicerbo@gmail.com</a>!
+- 🏎️ I have a passion for 90s Japanese and European cars
+- 🏈 I'm a washed up college football player
+- ⚙️ I love to tinker with anything mechanical as well as software
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: From when I was first talking as a child to about age 9, I legitimately sounded like Kermit the Frog 🐸
 <!--
 **adicerbo/adicerbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
