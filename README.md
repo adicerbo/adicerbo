@@ -7,7 +7,7 @@ About me:
 - I'm a washed up college football player
 - I love to tinker with anything mechanical as well as software!
 --
-- 📫 How to reach me: <a href "https://www.linkedin.com/in/antonio-dicerbo/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> or email me <a href="mailto:asdicerbo@gmail.com">asdicerbo@gmail.com</a>!
+- 📫 How to reach me: <a href "https://www.linkedin.com/in/antonio-dicerbo/">LinkedIn</a> or email me <a href="mailto:asdicerbo@gmail.com">asdicerbo@gmail.com</a>!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 <!--
